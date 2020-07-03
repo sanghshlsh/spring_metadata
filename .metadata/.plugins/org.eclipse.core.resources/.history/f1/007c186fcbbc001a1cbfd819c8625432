@@ -1,0 +1,12 @@
+package kr.co.persistence;
+
+import kr.co.domain.BoardVO;
+
+public class BoardDAOimpl implements BoardDAO {
+
+	@Override
+	public void insert(BoardVO vo) {
+		
+		
+	}
+}
